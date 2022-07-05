@@ -1,0 +1,32 @@
+{
+	"name": "Shortbow",
+	"equipable": "True",
+	"stackable": "False",
+	"equip_class": "weapon",
+	"hidden": "False",
+	"bonuses": {
+		"attack": {
+			"stab": 0,
+			"slash": 0,
+			"crush": 0,
+			"ranged": 8,
+			"magic": 0
+			},
+		"defence": {
+			"stab": 0,
+			"slash": 0,
+			"crush": 0,
+			"ranged": 0,
+			"magic": 0
+			},
+		"other": {
+			"melee_str": 0,
+			"ranged_str": 0,
+			"magic_dmg": 0,
+			"prayer": 0
+			}
+		},
+	"weapon_range": 7,
+	"attack_delay": 4,
+	"dmg_type": "ranged"
+}

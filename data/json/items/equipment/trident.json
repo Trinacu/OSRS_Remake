@@ -1,0 +1,32 @@
+{
+	"name": "Trident",
+	"equipable": "True",
+	"stackable": "False",
+	"equip_class": "weapon",
+	"hidden": "False",
+	"bonuses": {
+		"attack": {
+			"stab": 55,
+			"slash": 32,
+			"crush": 30,
+			"ranged": 0,
+			"magic": 0
+			},
+		"defence": {
+			"stab": 5,
+			"slash": 5,
+			"crush": 2,
+			"ranged": 0,
+			"magic": 0
+			},
+		"other": {
+			"melee_str": 44,
+			"ranged_str": 0,
+			"magic_dmg": 0,
+			"prayer": 0
+			}
+		},
+	"weapon_range": 2,
+	"attack_delay": 6,
+	"dmg_type": "crush"
+}

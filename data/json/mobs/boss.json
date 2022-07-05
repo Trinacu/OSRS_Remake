@@ -1,0 +1,25 @@
+{
+    "name": "Boss",
+    "init_xp": {
+        "Attack": 2000,
+        "Strength": 14000,
+        "Defence": 4000,
+        "Hitpoints": 10000,
+        "Magic": 0,
+        "Ranged": 0,
+        "Prayer": 0
+    },
+    "equipment": {
+        "weapon": "shortbow",
+        "arrows": "iron_arrows"
+    },
+    "drops": {
+    	"rune_scimitar": 0.001,
+    	"iron_scimitar": 0.33,
+    	"adamant_scimitar": 0.15,
+    	"iron_platebody": 0.3,
+    	"adamant_full_helm": 0.2
+    },
+    "sense_range": 10,
+    "movement_range" : 10
+}

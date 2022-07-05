@@ -1,0 +1,20 @@
+{
+    "name": "Zombie",
+    "init_xp": {
+        "Attack": 1200,
+        "Strength": 400,
+        "Defence": 400,
+        "Hitpoints": 1200,
+        "Magic": 0,
+        "Ranged": 0,
+        "Prayer": 0
+    },
+    "drops": {
+    	"iron_scimitar": 0.4,
+    	"iron_platebody": 0.2,
+    	"iron_platelegs": 0.2,
+    	"iron_full_helm": 0.2
+    },
+    "sense_range": 6,
+    "movement_range" : 10
+}

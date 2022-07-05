@@ -1,0 +1,29 @@
+{
+	"name": "Amulet of power",
+	"equipable": "True",
+	"stackable": "False",
+	"equip_class": "amulet",
+	"hidden": "False",
+	"bonuses": {
+		"attack": {
+			"stab": 6,
+			"slash": 6,
+			"crush": 6,
+			"ranged": 6,
+			"magic": 6
+			},
+		"defence": {
+			"stab": 6,
+			"slash": 6,
+			"crush": 6,
+			"ranged": 6,
+			"magic": 6
+			},
+		"other": {
+			"melee_str": 6,
+			"ranged_str": 0,
+			"magic_dmg": 0,
+			"prayer": 1
+			}
+   }
+}

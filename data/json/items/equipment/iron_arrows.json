@@ -1,0 +1,29 @@
+{
+	"name": "Iron arrows",
+	"equipable": "True",
+	"stackable": "True",
+	"equip_class": "ammunition",
+	"hidden": "False",
+	"bonuses": {
+		"attack": {
+			"stab": 0,
+			"slash": 0,
+			"crush": 0,
+			"ranged": 0,
+			"magic": 0
+			},
+		"defence": {
+			"stab": 0,
+			"slash": 0,
+			"crush": 0,
+			"ranged": 0,
+			"magic": 0
+			},
+		"other": {
+			"melee_str": 0,
+			"ranged_str": 10,
+			"magic_dmg": 0,
+			"prayer": 0
+			}
+		}
+}

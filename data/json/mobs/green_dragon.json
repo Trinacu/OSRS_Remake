@@ -1,0 +1,26 @@
+{
+    "name": "Green Dragon",
+    "init_xp": {
+        "Attack": 630000,
+        "Strength": 630000,
+        "Defence": 630000,
+        "Hitpoints": 1250000,
+        "Magic": 630000,
+        "Ranged": 0,
+        "Prayer": 0
+    },
+    "equipment": {
+        "body": "green_dragon_armor"
+    },
+    "drops": {
+    	"rune_scimitar": 0.125,
+    	"trident": 0.125,
+    	"amulet_of_power": 0.25,
+    	"adamant_platelegs": 0.2,
+    	"adamant_platebody": 0.2,
+    	"adamant_full_helm": 0.1
+    	
+    },
+    "sense_range": 10,
+    "movement_range" : 10
+}

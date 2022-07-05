@@ -1,0 +1,29 @@
+{
+	"name": "Iron Full Helm",
+	"equipable": "True",
+	"stackable": "False",
+	"equip_class": "head",
+	"hidden": "False",
+	"bonuses": {
+		"attack": {
+			"stab": 0,
+			"slash": 0,
+			"crush": 0,
+			"ranged": -3,
+			"magic": -6
+			},
+		"defence": {
+			"stab": 6,
+			"slash": 7,
+			"crush": 5,
+			"ranged": 6,
+			"magic": -1
+			},
+		"other": {
+			"melee_str": 0,
+			"ranged_str": 0,
+			"magic_dmg": 0,
+			"prayer": 0
+			}
+		}
+}

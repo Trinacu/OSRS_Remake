@@ -1,0 +1,29 @@
+{
+	"name": "Iron Platelegs",
+	"equipable": "True",
+	"stackable": "False",
+	"equip_class": "legs",
+	"hidden": "False",
+	"bonuses": {
+		"attack": {
+			"stab": 0,
+			"slash": 0,
+			"crush": 0,
+			"ranged": -11,
+			"magic": -21
+			},
+		"defence": {
+			"stab": 11,
+			"slash": 10,
+			"crush": 10,
+			"ranged": 10,
+			"magic": -4
+			},
+		"other": {
+			"melee_str": 0,
+			"ranged_str": 0,
+			"magic_dmg": 0,
+			"prayer": 0
+			}
+		}
+}

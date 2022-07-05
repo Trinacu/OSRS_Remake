@@ -1,0 +1,14 @@
+{
+    "name": "Mob",
+    "init_xp": {
+        "Attack": 0,
+        "Strength": 0,
+        "Defence": 0,
+        "Hitpoints": 400,
+        "Magic": 0,
+        "Ranged": 0,
+        "Prayer": 0
+    },
+    "sense_range": 6,
+    "movement_range" : 10
+}

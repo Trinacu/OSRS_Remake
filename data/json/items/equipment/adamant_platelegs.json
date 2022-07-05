@@ -1,0 +1,29 @@
+{
+	"name": "Adamant Platelegs",
+	"equipable": "True",
+	"stackable": "False",
+	"equip_class": "legs",
+	"hidden": "False",
+	"bonuses": {
+		"attack": {
+			"stab": 0,
+			"slash": 0,
+			"crush": 0,
+			"ranged": -15,
+			"magic": -30
+			},
+		"defence": {
+			"stab": 33,
+			"slash": 31,
+			"crush": 29,
+			"ranged": 31,
+			"magic": -6
+			},
+		"other": {
+			"melee_str": 0,
+			"ranged_str": 0,
+			"magic_dmg": 0,
+			"prayer": 0
+			}
+		}
+}

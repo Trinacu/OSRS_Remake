@@ -1,0 +1,29 @@
+{
+	"name": "Iron Platebody",
+	"equipable": "True",
+	"stackable": "False",
+	"equip_class": "body",
+	"hidden": "False",
+	"bonuses": {
+		"attack": {
+			"stab": 0,
+			"slash": 0,
+			"crush": 0,
+			"ranged": -15,
+			"magic": -30
+			},
+		"defence": {
+			"stab": 21,
+			"slash": 20,
+			"crush": 12,
+			"ranged": 20,
+			"magic": -6
+			},
+		"other": {
+			"melee_str": 0,
+			"ranged_str": 0,
+			"magic_dmg": 0,
+			"prayer": 0
+			}
+		}
+}
